@@ -1,0 +1,1 @@
+print('Albert Einstein da tung noi: Mot nguoi khong bao gio mac sai lam khong bao gio thu bat ky dieu gi moi.')
